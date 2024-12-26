@@ -17,7 +17,7 @@ Role Select Özellikleri: Takım, İlişki, Oyun, Etkinlik, Burç, Renk rol seç
 
 Dağıtıcı Özellikleri: Backup işlevi görür, artı olarak urlyi korur. Urlyi spamlar / Silinen rolleri geri oluşturduguğunuzda databasedeki uyelere rolleri geri dağıtır.
 
-Secret Room Özellikleri: Ğye sağ taraftaki ses kanalına giriş yaparak özel oda oluşturabilir. Panelden user ekleyebilir, silebilir odasini yonetebilir.
+Secret Room Özellikleri: Üye sağ taraftaki ses kanalına giriş yaparak özel oda oluşturabilir. Panelden user ekleyebilir, silebilir odasini yonetebilir.
 
 Not: Bot tamamiyle bana ait değildir sadece toplama altyapıları bı arada toplayıp priv sunucularınızı botsuz bırakmayın dıye tum confıglerın bı arada oldugu bı bot kurdum.
 Dediğim gibi botlar bana ait değildir sadece düzenledim hatalarını giderdim birkaç bisey ekledim hepsini tek confige ekledim o kadar. Sonra hazır altyapı alıp uc bes cocuk gelır su sunun altyapı mı su bunun mu qwe qwe
