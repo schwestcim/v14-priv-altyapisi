@@ -10,9 +10,13 @@ Dosyanın içinde ne var ?
 ∞ Dağıtıcı
 
 Guard Özellikleri: Rol,Kanal,Chat,Url,Web koruma vs hepsi vardır.
+
 Supervisor Özellikleri: Giriş-Çıkış log, Cezalandırma, Vip, İzinli Çek, İzinli Git komtuları vs vardır. Kayıt sistemi yoktur. 
+
 Role Select Özellikleri: Takım, İlişki, Oyun, Etkinlik, Burç, Renk rol seçimleri dahildir. Hem buttonlu hem menulu rol seçim vardır içinden lgbt rol sistemi silinmiştir sikerim lgbtyi.
+
 Dağıtıcı Özellikleri: Backup işlevi görür, artı olarak urlyi korur. Urlyi spamlar / Silinen rolleri geri oluşturduguğunuzda databasedeki uyelere rolleri geri dağıtır.
+
 Secret Room Özellikleri: Ğye sağ taraftaki ses kanalına giriş yaparak özel oda oluşturabilir. Panelden user ekleyebilir, silebilir odasini yonetebilir.
 
 Not: Bot tamamiyle bana ait değildir sadece toplama altyapıları bı arada toplayıp priv sunucularınızı botsuz bırakmayın dıye tum confıglerın bı arada oldugu bı bot kurdum.
